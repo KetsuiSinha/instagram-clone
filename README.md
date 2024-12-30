@@ -25,10 +25,4 @@ This project is built using the following technologies:
 - **JavaScript**: Adds interactive functionality, such as toggling the "like" button and managing UI animations.
 - **Media Queries**: Ensures that the app is fully responsive, looking great on all devices, from desktops to mobile phones.
 
-## Getting Started
 
-Follow these easy steps to get the Instagram Clone up and running on your local machine:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/instagram-clone.git
